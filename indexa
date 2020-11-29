@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Grid</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <div class="about-section">
+        <div class=inner-container>
+             <h1>About us</h1>
+             <p class="text">
+
+             </p>
+             <div class="OUR ACCOMPLISHMENT">
+                <span>500+Beneficiaries Served</span>
+                <span>4+projects</span>
+                <span>50+volunteers</span>
+             </div>
+        <div>
+    <div> 
+</body>  
+</html> 
+      
